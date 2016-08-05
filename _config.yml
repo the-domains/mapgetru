@@ -6,9 +6,9 @@ color:
   saturation: 0.21019079023972154
   rhythmicContrast: 0.9854844145011157
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#FFFFFF'
+    - '#00A3E2'
+    - '#0083C3'
+    - '#5DA0C8'
+    - '#6FCBEA'
 name: mapget.ru
