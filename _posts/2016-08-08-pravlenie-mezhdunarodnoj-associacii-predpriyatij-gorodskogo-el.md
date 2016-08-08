@@ -1,16 +1,16 @@
 ---
-description: ' Состав Правления утверждён 27 мая 2016 г. в Санкт-Петербург.'
-dateModified: '2016-08-08T04:50:51.425Z'
-datePublished: '2016-08-08T05:19:28.683Z'
+datePublished: '2016-08-08T05:49:13.377Z'
+sourcePath: >-
+  _posts/2016-08-08-pravlenie-mezhdunarodnoj-associacii-predpriyatij-gorodskogo-el.md
+author: []
+via: {}
+dateModified: '2016-08-08T05:49:12.543Z'
 title: >-
   Правление Международной ассоциации предприятий городского электрического
   транспорта
-author: []
 publisher: {}
-via: {}
+description: ' Состав Правления утверждён 27 мая 2016 г. в Санкт-Петербург.'
 starred: false
-sourcePath: >-
-  _posts/2016-08-08-pravlenie-mezhdunarodnoj-associacii-predpriyatij-gorodskogo-el.md
 inFeed: true
 hasPage: false
 inNav: false
