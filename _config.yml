@@ -21,6 +21,10 @@ author:
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/66605148-dd6d-4262-b2fd-54feda3a2fd1.jpg
 name: mapget.ru
+navigation:
+  - name: МАП ГЭТ
+    id: d8fbdfcc-b7b2-4cfe-8cac-cf29a615e46e
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/c94d8ee9-233f-4a94-be05-4ae806a55918.jpg
 title: МАПГЭТ
