@@ -1,127 +1,21 @@
 ---
-datePublished: '2016-08-08T07:19:23.890Z'
+datePublished: '2016-08-08T08:38:42.346Z'
 sourcePath: >-
   _posts/2016-08-08-pravlenie-mezhdunarodnoj-associacii-predpriyatij-gorodskogo-el.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-08T07:18:56.278Z'
-title: >-
-  Правление Международной ассоциации предприятий городского электрического
-  транспорта
+dateModified: '2016-08-08T08:38:41.601Z'
+title: Руководство
 publisher: {}
-description: ' Состав Правления утверждён 27 мая 2016 г. в Санкт-Петербург.'
+description: ''
 starred: false
 url: pravlenie-mezhdunarodnoj-associacii-predpriyatij-gorodskogo-el/index.html
 _type: Blurb
 
 ---
-# Правление Международной ассоциации предприятий городского электрического транспорта
+# Руководство
 
-Состав Правления утверждён 27 мая 2016 г. в Санкт-Петербург.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0d01fe70-e7ec-4bc6-b688-444bc5744754.jpg)
+## Правление Международной ассоциации предприятий городского электрического транспорта
 
-**Остряков Василий Андреевич**
-
-Президент МАП ГЭТ
-
-Директор СПб ГУП «Горэлектротранс»
-
-г. Санкт-Петербург
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/deb3c9cd-6b9a-4313-9765-44dd1ac05d9c.jpg)
-
-**Закиров Саид Сагитович**
-
-Исполнительный директор МАП ГЭТ  
-г. Москва
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fe25767e-20af-4648-8924-b49ff621d694.jpg)
-
-**Щепин Сергей Александрович**
-
-Первый вице-президент МАП ГЭТ
-
-г. Ярославль
-![Батов Андрей АлександровичВице-президент МАП ГЭТГенеральный директор МУП «ИжГорЭлектроТранс»
-
-г. Ижевск](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7d36b245-9609-44fc-a8de-8e603ab1b273.jpg)
-
-**Батов Андрей Александрович**
-
-Вице-президент МАП ГЭТ  
-Генеральный директор МУП «ИжГорЭлектроТранс»
-
-г. Ижевск
-
-    <hr>
-
-**Морозов Александр Сергеевич**
-
-**Вице-президент МАП ГЭТ**
-
-Руководитель проектов компании ООО «АИКОМ» г. Москва
-
-**Герц Галина Васильевна**  
-**Вице-президент МАП ГЭТ**  
-Генеральный директор ООО УТПК «Химэнергоснаб»
-
-г. Екатеринбург
-
-**Ткачук Борис Иосифович**  
-**Вице-президент МАП ГЭТ**  
-Первый заместитель генерального директора ГУП «Мосгортранс»
-
-г. Москва
-
-**Корольков Сергей Константинович**  
-Руководитель инновационных проектов ЗАО ТЦ «Электротранссервис»
-
-Председатель Троллейбусного Комитета МСОТ
-
-г. Москва
-
-**Боровой Борис Владимирович**  
-Директор МУП «Ульяновскэлектротранс»
-
-г. Ульяновск
-
-**Криса Александр Иванович**  
-Президент АО «Трамвайное управление
-
-г. Павлодара»
-
-г. Павлодар
-
-**Матросов Владимир Александрович**  
-Директор ОАО «Рыбинскэлектротранс»
-
-г. Рыбинск
-
-**Моргоч Георгий Петрович**  
-Генеральный директор МП «Дирекция городского электрического транспорта»
-
-г. Кишинёв
-
-**Нугаев Сергей Николаевич**  
-Генеральный директор ЕМУП «Трамвайно-троллейбусное управление»
-
-г. Екатеринбург
-
-**Шамсудинов Рашид Бадгиевич**  
-Генеральный директор ООО
-
-«Электротранспорт»
-
-г. Набережные Челны
-
-**Куренной Анатолий Владимирович**  
-Директор МУП «Городской электрический транспорт»
-
-г. Пятигорск
-
-**Рейнгольд Андреас Федорович**  
-Директор ООО «ИТЭМ»
-
-г. Барнаул
-
-**Штумпф Александр Александрович**  
-г. Новосибирск
+    <body style="text-align: center"> <center> <table class="main" style="text-align: left"> <tr> <td class="topleft" valign="top"> <div class="block_icons"> <div><a href="http://mapget.ru"><img src="img/home.gif"></a></div> <div><a href="mailto:mapget@mail.ru"><img src="img/mail.gif"></a></div> </div> <div class="mainmenu"> <div id="menuwrapper"> <ul id="primary-nav"> <li class="menuactive menuparent parent"><a class="menuactive menuparent parent" href="http://www.mapget.ru/association"><span>Ассоциация</span></a> <ul class="unli"> <li class="menuactive"><a class="menuactive" href="http://www.mapget.ru/head"><span>Руководство</span></a> </li> <li> <a href="http://www.mapget.ru/association/structure"><span>Структура</span></a> </li> <li> <a href="http://www.mapget.ru/history"><span>История</span></a> </li> <li> <a href="http://www.mapget.ru/teh-sovet"><span>Технический совет</span></a> </li></ul> </li> <li class="menuparent"><a class="menuparent" href="http://www.mapget.ru/orget"><span>Объединение</span></a> </li> <li class="menuparent"><a class="menuparent" href="http://www.mapget.ru/strategy"><span>Стратегия</span></a> </li> <li class="menuparent"><a class="menuparent" href="http://www.mapget.ru/news"><span>Новости</span></a> </li> <li class="menuparent"><a class="menuparent" href="http://www.mapget.ru/event"><span>Мероприятия</span></a> </li> <li> <a href="http://www.mapget.ru/technology"><span>Технологии</span></a> </li> <li> <a href="http://www.mapget.ru/docs"><span>Документы</span></a> </li> <li class="menuparent"><a class="menuparent" href="http://www.mapget.ru/25-let-map-get"><span>25-летие</span></a> </li> <li class="menuparent"><a class="menuparent" href="http://www.mapget.ru/slushaniya"><span>Слушания</span></a> </li> <li> <a href="http://www.mapget.ru/contacts"><span>Контакты</span></a> </li> </ul> <div class="clearb"></div> </div> </div> </td> <td valign="top"> <table class="content"> <tr> <td class="topcenterinner" valign="top"> <div class="topmenu" width="100%"> <div class="contacts"><a href="/contacts">контакты</a></div> <div class="home"><a href="http://mapget.ru">главная</a></div> </div> </td> </tr> <tr> <td class="innerpagecontent" valign="top"> <div class="maintext"> <h1>Правление Международной ассоциации предприятий городского электрического транспорта</h1> <p> Состав Правления утверждён 27 мая 2016 г. в Санкт-Петербург.</p> <table class="pravlenie_table" width="627"> <tbody> <tr> <td class="piccol"><img style="vertical-align: top;" src="uploads/images/Ostryakov.jpg" alt="" width="180" /></td> <td> <p style="text-align: justify;"><strong>Остряков Василий Андреевич<br /> Президент МАП ГЭТ</strong><br /><br /> Директор СПб ГУП «Горэлектротранс»</p> <p>г. Санкт-Петербург</p> </td> </tr> <tr> <td class="piccol"> <p><img src="uploads/images/Zakirov.jpg" alt="" width="180" /></p> </td> <td> <p><strong><strong>Закиров Саид Сагитович</strong><br /> Исполнительный директор МАП ГЭТ</strong><br /><br /> г. Москва</p> </td> </tr> <tr> <td class="piccol"><img style="vertical-align: top;" src="uploads/images/Shepin.jpg" alt="" width="180" /></td> <td> <p><strong>Щепин Сергей Александрович<br /> Первый вице-президент МАП ГЭТ</strong><br /><br /></p> <p>г. Ярославль</p> </td> </tr> <tr> <td class="piccol"> <p><img src="uploads/Kontakty/Батов.jpg" alt="" width="186" height="210" /></p> <p> </p> <p><img src="uploads/2016/img20.jpg" alt="" width="180" height="225" /></p> </td> <td> <p style="text-align: left;"><strong>Батов Андрей Александрович<br /> Вице-президент МАП ГЭТ</strong><br /><br /> Генеральный директор МУП «ИжГорЭлектроТранс»</p> <p style="text-align: left;">г. Ижевск</p> <p> </p> <p> </p> <p> </p> <p><strong><strong>Морозов Александр Сергеевич</strong></strong></p> <p><strong>Вице-президент МАП ГЭТ </strong></p> <p>Руководитель проектов компании ООО «АИКОМ» г. Москва</p> <p> </p> </td> </tr> <tr> <td class="piccol"><img style="vertical-align: top;" src="uploads/images/Gerz.jpg" alt="" width="180" /></td> <td> <p style="text-align: left;"><strong>Герц Галина Васильевна<br /> Вице-президент МАП ГЭТ</strong><br /><br /> Генеральный директор ООО УТПК «Химэнергоснаб»</p> <p style="text-align: left;">г. Екатеринбург</p> <p> </p> <p> </p> </td> </tr> <tr> <td class="piccol"><img style="vertical-align: top;" src="uploads/images/Tkachuk.jpg" alt="" width="180" /></td> <td> <p><strong>Ткачук Борис Иосифович<br /> Вице-президент МАП ГЭТ</strong><br /><br /> Первый заместитель генерального директора ГУП «Мосгортранс»</p> <p>г. Москва</p> </td> </tr> <tr> <td class="piccol"> <p><img src="uploads/images/mapget%202.jpg" alt="" /></p> </td> <td> <p><strong>Корольков Сергей Константинович</strong><br /><br /> Руководитель инновационных проектов ЗАО ТЦ «Электротранссервис»</p> <p>Председатель Троллейбусного Комитета МСОТ</p> <p>г. Москва</p> <p> </p> </td> </tr> <tr> <td class="piccol"> <p><img src="uploads/images/Боровой.jpg" alt="" width="190" height="171" /></p> </td> <td> <p><strong>Боровой Борис Владимирович</strong><br /><br /> Директор МУП «Ульяновскэлектротранс»</p> <p>г. Ульяновск</p> </td> </tr> <tr> <td class="piccol"> <p><img src="uploads/Kontakty/Криса%20А..jpg" alt="" width="175" height="218" /></p> </td> <td> <p><strong>Криса Александр Иванович</strong><br /><br /> Президент АО «Трамвайное управление</p> <p>г. Павлодара»</p> <p>г. Павлодар</p> </td> </tr> <tr> <td class="piccol"> <p><img src="uploads/Kontakty/Matrosov.jpg" alt="" width="180" height="187" /></p> </td> <td> <p><strong>Матросов Владимир Александрович</strong><br /><br /> Директор ОАО «Рыбинскэлектротранс»</p> <p>г. Рыбинск</p> </td> </tr> <tr> <td class="piccol"> <p><img src="uploads/images/Morgoch.gif" alt="" width="169" height="186" /></p> </td> <td> <p><strong>Моргоч Георгий Петрович</strong><br /><br /> Генеральный директор МП «Дирекция городского электрического транспорта»</p> <p>г. Кишинёв</p> </td> </tr> <tr> <td class="piccol"> <p><img src="uploads/Kontakty/Нугаев.JPG" alt="" /></p> </td> <td> <p><strong>Нугаев Сергей Николаевич</strong><br /><br /> Генеральный директор ЕМУП «Трамвайно-троллейбусное управление»</p> <p>г. Екатеринбург</p> </td> </tr> <tr> <td class="piccol"><img src="uploads/Kontakty/Шамсудинов.jpg" alt="" width="180" height="169" /></td> <td> <p><strong>Шамсудинов Рашид Бадгиевич</strong><br /><br /> Генеральный директор ООО</p> <p>«Электротранспорт»</p> <p>г. Набережные Челны</p> </td> </tr> <tr> <td class="piccol"><img src="uploads/images/Куренной%20(1).jpg" alt="" width="180" height="200" /></td> <td> <p><strong>Куренной Анатолий Владимирович</strong><br /><br /> Директор МУП «Городской электрический транспорт»</p> <p>г. Пятигорск</p> </td> </tr> <tr> <td class="piccol"> <p><img src="uploads/images/Реингольд.png" alt="" width="169" height="224" /></p> </td> <td> <p><strong>Рейнгольд Андреас Федорович</strong><br /><br /> Директор ООО «ИТЭМ»</p> <p>г. Барнаул</p> <br /> <p><strong><br /></strong></p> </td> </tr> <tr> <td class="piccol"><img src="uploads/images/Штумпф.jpg" alt="" width="180" height="196" /></td> <td><strong>Штумпф Александр Александрович</strong><br /><br />г. Новосибирск</td> </tr> <tr> <td class="piccol"> </td> <td> <p><strong><br /></strong></p> <p style="text-align: left;"> </p> <p style="text-align: left;"><br /><br /></p> </td> </tr> </tbody> </table> </div> </td> </tr> </table> </td> <td class="rightshadow"></td> </tr>		 <tr> <td colspan="3" class="bottomshadow"> <div class="banner_footer"> <a rel="nofollow" href="http://www.mapget.ru/index.php?mact=Banners,cntnt01,link,0&amp;cntnt01banner_id=3&amp;cntnt01category_id=5&amp;cntnt01returnid=58" title="ProТранспорт"><img src="uploads/banners/ProTransport_adv2.gif" width="468" height="60" alt="Серия спецномеров журнала "ProТранспорт""/></a> </div> <div class="copyright">&copy; МАП ГЭТ<br /> По всем вопросам обращайтесь на e-mail <a href="mailto:mapget@mail.ru">mapget@mail.ru</a></div> </td> </tr> </table> </center> </body>
