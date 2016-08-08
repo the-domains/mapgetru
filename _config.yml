@@ -10,7 +10,18 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
+opengraph:
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/087bb835-4d56-4176-86c3-71f2a5802c80.jpg
 layout_spectrum: 0.46569760027341545
+author:
+  name: Emil Zakirov Saidovich
+  email: 4uniquemind@gmail.com
+  url: 'https://twitter.com/ZakirovEmil'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/66605148-dd6d-4262-b2fd-54feda3a2fd1.jpg
 name: mapget.ru
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c94d8ee9-233f-4a94-be05-4ae806a55918.jpg
 title: МАПГЭТ
 description: '  Международная ассоциация    предприятий городского   электрического транспорта'
