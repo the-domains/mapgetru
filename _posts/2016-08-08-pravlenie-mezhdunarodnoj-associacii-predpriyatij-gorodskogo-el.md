@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-08T07:15:43.914Z'
+datePublished: '2016-08-08T07:19:23.890Z'
 sourcePath: >-
   _posts/2016-08-08-pravlenie-mezhdunarodnoj-associacii-predpriyatij-gorodskogo-el.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-08T07:15:42.395Z'
+dateModified: '2016-08-08T07:18:56.278Z'
 title: >-
   Правление Международной ассоциации предприятий городского электрического
   транспорта
@@ -21,18 +21,20 @@ _type: Blurb
 Состав Правления утверждён 27 мая 2016 г. в Санкт-Петербург.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0d01fe70-e7ec-4bc6-b688-444bc5744754.jpg)
 
-**Остряков Василий Андреевич **
+**Остряков Василий Андреевич**
 
-Президент МАП ГЭТ 
+Президент МАП ГЭТ
 
 Директор СПб ГУП «Горэлектротранс»
 
-г. Санкт-Петербург ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/deb3c9cd-6b9a-4313-9765-44dd1ac05d9c.jpg)
+г. Санкт-Петербург
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/deb3c9cd-6b9a-4313-9765-44dd1ac05d9c.jpg)
 
 **Закиров Саид Сагитович**
 
 Исполнительный директор МАП ГЭТ  
-г. Москва ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fe25767e-20af-4648-8924-b49ff621d694.jpg)
+г. Москва
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fe25767e-20af-4648-8924-b49ff621d694.jpg)
 
 **Щепин Сергей Александрович**
 
