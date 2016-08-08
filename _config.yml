@@ -1,19 +1,19 @@
-typography_spectrum: 0.7532708344515413
+typography_spectrum: 0.44735728460364044
 color:
-  brandStrength: 0.42293335194699466
-  lightness: 0.5964920837432146
-  saturation: 0.6746177547611296
-  rhythmicContrast: 0.316111546009779
+  brandStrength: 0.978034412721172
+  lightness: 0.956080780364573
+  saturation: 0.21019079023972154
+  rhythmicContrast: 0.9854844145011157
   brandColors:
-    - '#FFFFFF'
-    - '#FFFF01'
-    - '#214EFF'
-    - '#7894FF'
-    - '#5B6341'
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
 opengraph:
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/087bb835-4d56-4176-86c3-71f2a5802c80.jpg
-layout_spectrum: 0.17492218245752156
+layout_spectrum: 0.46569760027341545
 author:
   name: Emil Zakirov Saidovich
   email: 4uniquemind@gmail.com
@@ -24,6 +24,9 @@ name: mapget.ru
 navigation:
   - name: МАП ГЭТ
     id: d8fbdfcc-b7b2-4cfe-8cac-cf29a615e46e
+    type: content
+  - name: Руководство
+    id: 508a39b5-bd1c-4000-8736-4eeeab185688
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/c94d8ee9-233f-4a94-be05-4ae806a55918.jpg
