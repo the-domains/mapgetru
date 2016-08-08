@@ -1,19 +1,19 @@
-typography_spectrum: 0.44735728460364044
+typography_spectrum: 0.7532708344515413
 color:
-  brandStrength: 0.978034412721172
-  lightness: 0.956080780364573
-  saturation: 0.21019079023972154
-  rhythmicContrast: 0.9854844145011157
+  brandStrength: 0.42293335194699466
+  lightness: 0.5964920837432146
+  saturation: 0.6746177547611296
+  rhythmicContrast: 0.316111546009779
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#FFFFFF'
+    - '#FFFF01'
+    - '#214EFF'
+    - '#7894FF'
+    - '#5B6341'
 opengraph:
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/087bb835-4d56-4176-86c3-71f2a5802c80.jpg
-layout_spectrum: 0.46569760027341545
+layout_spectrum: 0.17492218245752156
 author:
   name: Emil Zakirov Saidovich
   email: 4uniquemind@gmail.com
