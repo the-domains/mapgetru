@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-08T08:39:40.395Z'
+datePublished: '2016-08-08T08:40:12.737Z'
 sourcePath: >-
   _posts/2016-08-08-pravlenie-mezhdunarodnoj-associacii-predpriyatij-gorodskogo-el.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-08T08:39:39.572Z'
+dateModified: '2016-08-08T08:40:11.669Z'
 title: Руководство
 publisher: {}
 description: ''
